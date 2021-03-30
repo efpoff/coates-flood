@@ -8,17 +8,7 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-{% include feature/nav-menu.html sections="About the Collection Builder CDM Skin;About the About Page" %}
-
 ## About the Collection Builder CDM Skin
+This collection includes photographs documenting Trinity University's history from 1869 to the present. The historic images in the collection range in date throughout the University's first 100 years and are divided into 4 subject categories (based on the University's geographic location): the Tehuacana Images (1869-1902), the Waxahachie Images (1902-1942), the Woodlawn: San Antonio Images (1942-1952), and the Skyline Campus: San Antonio Images (mid 1950s-present).
 
-This demo collection features items from the University of Idaho Library's [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/), and is build using [CollectionBuilder-CONTENTdm](https://github.com/CollectionBuilder/collectionbuilder-contentdm).
-
-CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. 
-The demo collection features images, document pdfs, audio, and YouTube video items to demonstrate the range of possibilities using the CollectionBuilder visualizations.
-
-Psychiana was a "mail order" religion popular in the 1930s and 40s.
-Visit the full [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/) (also built with a version of CollectionBuilder) or the [Frank B. Robinson Papers](http://archiveswest.orbiscascade.org/ark:/80444/xv97133/op=fstyle.aspx?t=k&q=psychiana) finding aid to learn more.
-
-<!-- IMPORTANT!!! DELETE everything below this comment (and this comment) when you are finished editing this page for your collection. The included file below includes instructions for inserting features into your about page. They will show up on your collection's about page until you delete it.  -->
-{% include feature/abouttheabout.md %}
+These collections include glass plate images, tintypes, and gelatin photos, as well as traditional and digital photography. The digitization of this and other collections ensures the continued preservation and improved access to these resources.
