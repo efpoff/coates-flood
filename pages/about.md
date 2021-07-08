@@ -8,7 +8,11 @@ permalink: /about.html
 
 {% include feature/jumbotron.html %}
 
-## About the Collection Builder CDM Skin
-This collection includes photographs documenting Trinity University's history from 1869 to the present. The historic images in the collection range in date throughout the University's first 100 years and are divided into 4 subject categories (based on the University's geographic location): the Tehuacana Images (1869-1902), the Waxahachie Images (1902-1942), the Woodlawn: San Antonio Images (1942-1952), and the Skyline Campus: San Antonio Images (mid 1950s-present).
+## About the Collection
+On September 9, 1921, a tropical depression stalled just north of San Antonio and within hours overwhelmed its winding network of creeks and rivers. Floodwaters ripped through the city’s Latino West Side neighborhoods, killing more than eighty people. Meanwhile a wall of water crashed into the central business district on the city’s North Side, wreaking considerable damage.
 
-These collections include glass plate images, tintypes, and gelatin photos, as well as traditional and digital photography. The digitization of this and other collections ensures the continued preservation and improved access to these resources.
+The city’s response to this disaster shaped its environmental policies for the next fifty years, carving new channels of power. Decisions about which communities would be rehabilitated and how thoroughly were made in the political arena, where the Anglo elite largely ignored the interlocking problems on the impoverished West Side that flowed from poor drainage, bad housing, and inadequate sanitation. 
+
+In his 2021 book West Side Rising: How San Antonio's 1921 Flood Devastated a City and Sparked a Latino Environmental Justice Movement (San Antonio: Trinity University Press), former Trinity University professor Dr. Char Miller writes about San Antonio’s enduring relationship to floods, which have had severe consequences for its communities of color in particular. 
+
+This digital collection contains photographs, aerial photographs, and maps documenting the 1921 Flood. These materials were collected by Dr. Miller during his research, and were acquired by Coates Library in 2021. 

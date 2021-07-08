@@ -11,8 +11,12 @@ location,Location,,,contentLocation
 latitude,Latitude
 longitude,Longitude
 source,Source
+acknowledgement, Acknowledgements
+publisher, Digital Publisher
+date_digital, Date Digital
 identifier,Source Identifier
 type,Type,,DCTERMS.type
 format original,Format Original
 format,Format,,,encodingFormat
+language,Language
 rightsstatement,,,DCTERMS.rights,license
